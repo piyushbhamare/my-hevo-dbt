@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: hevo
+    database: HEVO_DB
+    schema: PUBLIC
+    tables:
+      - name: raw_simulation
